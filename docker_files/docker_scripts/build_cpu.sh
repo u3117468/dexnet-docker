@@ -12,7 +12,7 @@ docker create -it \
         -v /dev/bus/usb:/dev/bus/usb \
         -v $HOME/.Xauthority:/home/developer/.Xauthority \
         -v $repoDirectory:/apps/test \
-        --net=host --pid=host --ipc=host --name dexnet-ros-cont dexnet-ros
+        --net=host --pid=host --ipc=host --name dexnet-ros-cont 3117468/dexnet-ros
 
 
 docker start dexnet-ros-cont
