@@ -1,2 +1,2 @@
-docker stop dexnetfull-ros-1
-docker rm dexnetfull-ros-1
+docker stop dexnet-ros-cont
+docker rm dexnet-ros-cont
