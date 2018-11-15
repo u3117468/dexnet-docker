@@ -1,0 +1,6 @@
+model_checkpoint_path: "/apps/test/highepoch/model_fbbnqxtnbe/model.ckpt"
+all_model_checkpoint_paths: "/apps/test/highepoch/model_fbbnqxtnbe/model_91000.ckpt"
+all_model_checkpoint_paths: "/apps/test/highepoch/model_fbbnqxtnbe/model_92000.ckpt"
+all_model_checkpoint_paths: "/apps/test/highepoch/model_fbbnqxtnbe/model_93000.ckpt"
+all_model_checkpoint_paths: "/apps/test/highepoch/model_fbbnqxtnbe/model_94000.ckpt"
+all_model_checkpoint_paths: "/apps/test/highepoch/model_fbbnqxtnbe/model.ckpt"

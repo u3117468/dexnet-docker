@@ -1,0 +1,6 @@
+dexnet_2.zip : the large 6.7 million data point dataset
+https://berkeley.app.box.com/s/6mnb2bzi5zfa7qpwyn7uq5atb7vbztng/file/302919872375
+
+adv_synth.zip : around 200,000 data points this is the one i used
+https://berkeley.app.box.com/s/6mnb2bzi5zfa7qpwyn7uq5atb7vbztng/file/186587798454
+
